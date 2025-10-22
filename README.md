@@ -1,4 +1,4 @@
-AI Security Lab
+# AI Security Lab
 
 This repository explores the use of AI to enhance modern cybersecurity workflows, including threat detection, intelligence analysis, and rapid security automation.
 
